@@ -12,4 +12,4 @@ This project is a look alike of the original Wordle Game of the New York Times.T
 * Go to the right directory and run "npm run start" to spin the React app locally.
 * In another terminal, type in "json-server ./data/db.json --port 3001" because or app is already running in port 3000. So, start up the JSON-server in port 3001.
 
-### For simplicity, I already provided the answer. You just pplay around it to see the working of the game.
+### For simplicity, I already provided the answer. You just play around it to see the working of the game.
