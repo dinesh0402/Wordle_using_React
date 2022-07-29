@@ -1,4 +1,4 @@
-# Wordle Game using React.js and JSON Server
+# Wordle Game using React.js and JSON Server 🔠
 ## A simple word-guessing game.
 
 This project is a look alike of the original Wordle Game of the New York Times.This project was build using React.js and JSON server.
